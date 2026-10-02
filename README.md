@@ -1,91 +1,154 @@
-<!-- ======================= HERO ======================= -->
+<!-- ===================================================== -->
+<!--                     HERO SECTION                      -->
+<!-- ===================================================== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:7C3AED,100:EC4899&height=220&section=header&text=Let's%20Build%20Something&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React%20Developer&descAlignY=60&descSize=18" width="100%" />
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:09001A,35:3B0764,70:7C3AED,100:EC4899&height=250&section=header&text=It's_me_NAmeer&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React%20Developer&descAlignY=60&descSize=19"
+  width="100%"
+/>
 
 <br/>
 
-<h1>Hi, I'm a Frontend Developer 👋</h1>
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Frontend+Developer+%F0%9F%92%BB;React+Developer+%E2%9A%9B%EF%B8%8F;JavaScript+Enthusiast+%F0%9F%94%A5;Learning+TypeScript+%F0%9F%94%B7;Exploring+Next.js+%E2%9A%A1;Building+Modern+Web+Experiences+%F0%9F%9A%80"
+/>
 
-<p>
-I build modern, responsive and interactive web experiences.
-</p>
+<br/><br/>
 
-<p>
-  <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-EC4899?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="YOUR_FACEBOOK_URL">
-    <img src="https://img.shields.io/badge/Facebook-4C1D95?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-</p>
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-EC4899?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="YOUR_FACEBOOK_URL">
+<img src="https://img.shields.io/badge/Facebook-4C1D95?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://github.com/91fazlulkarim91-dotcom">
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+<br/>
+
+---
+
+<!-- ===================================================== -->
+<!--                       ABOUT ME                        -->
+<!-- ===================================================== -->
+
+# 👋 About Me
+
+Hi! I'm **It's_me_NAmeer**, a passionate **Frontend Developer**
+focused on creating modern, responsive and interactive web applications.
+
+I enjoy transforming ideas into clean digital experiences and
+continuously improving my development skills through real-world projects.
+
+### 🚀 What I'm doing now
+
+- ⚛️ Building applications with **React**
+- 🔷 Learning **TypeScript**
+- ▲ Exploring **Next.js**
+- 🎨 Improving modern UI/UX
+- 🔌 Working with REST APIs
+- 🔥 Exploring full-stack development
+- 🧠 Practicing problem solving and clean code
+
+---
+
+<!-- ===================================================== -->
+<!--                    QUICK OVERVIEW                     -->
+<!-- ===================================================== -->
+
+# ⚡ Quick Overview
+
+<div align="center">
+
+| 💻 Role | ⚛️ Main Focus | 📚 Learning | 🚀 Goal |
+| :---: | :---: | :---: | :---: |
+| Frontend Developer | React | TypeScript | Full-Stack Developer |
+| React Developer | JavaScript | Next.js | Better Products |
 
 </div>
 
 ---
 
-# 🚀 About Me
+<!-- ===================================================== -->
+<!--                     TECH STACK                       -->
+<!-- ===================================================== -->
 
-I'm a passionate web developer focused on building clean,
-responsive and interactive web applications.
+# 🛠️ Tech Stack
 
-I enjoy turning ideas into real products and continuously
-learning new technologies to improve my development skills.
-
-### Currently
-
-- 💻 Working with React
-- ⚛️ Building modern frontend applications
-- 📚 Learning TypeScript & Next.js
-- 🎨 Exploring better UI/UX
-- 🚀 Building real-world projects
-
----
-
-# ⚡ My Tech Stack
+## 🎨 Frontend
 
 <div align="center">
 
-### Frontend
-
 <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,nextjs,tailwind" />
 
-### Backend & Database
+</div>
+
+<br/>
+
+## 🔥 Backend & Database
+
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
 
-### Tools
+</div>
+
+<br/>
+
+## ⚙️ Tools
+
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,figma" />
 
 </div>
 
+<br/>
+
+<div align="center">
+
+`React Router` • `DaisyUI` • `Framer Motion` • `AOS`
+• `TanStack Query` • `REST API`
+
+</div>
+
 ---
 
-# 🧠 What I Build
+<!-- ===================================================== -->
+<!--                   WHAT I BUILD                        -->
+<!-- ===================================================== -->
+
+# 💡 What I Build
 
 <table>
 <tr>
 
-<td width="50%">
+<td width="50%" align="center">
 
-### 🌐 Modern Web Apps
+### 🌐 Modern Web Applications
 
-Responsive applications with clean
-architecture and reusable components.
+Responsive and interactive web applications
+with reusable React components.
 
 </td>
 
-<td width="50%">
+<td width="50%" align="center">
 
 ### ⚛️ React Applications
 
-Interactive interfaces using React,
-React Router and modern frontend tools.
+Modern React applications with routing,
+API integration and dynamic UI.
 
 </td>
 
@@ -93,130 +156,133 @@ React Router and modern frontend tools.
 
 <tr>
 
-<td width="50%">
+<td width="50%" align="center">
 
-### 🎨 Premium UI
+### 🎨 Premium Interfaces
 
-Modern interfaces with animation,
-responsive layouts and polished UX.
+Clean interfaces with animations,
+responsive layouts and modern UX.
 
 </td>
 
-<td width="50%">
+<td width="50%" align="center">
 
-### 🔥 Full-Stack Projects
+### 🔥 Full-Stack Applications
 
-Frontend + backend applications
-connected with APIs and databases.
+Applications connecting frontend,
+backend APIs, authentication and databases.
 
 </td>
 
 </tr>
+
 </table>
 
 ---
 
-# 💻 Featured Projects
+<!-- ===================================================== -->
+<!--                  FEATURED PROJECTS                    -->
+<!-- ===================================================== -->
 
-### 🏋️ B14-A6-Fit
+# 🚀 Featured Projects
 
-A modern fitness tracking application
-built with React and API integration.
+## 🏋️ B14-A6-Fit
 
-**Tech:**
+**Fitness tracking web application**
 
-`React` `JavaScript` `Tailwind CSS` `React Router`
+A modern fitness application where users can explore workouts,
+view workout details and manage their personal workout plan.
 
----
+### Tech
 
-### 📚 PANDU-LIPI
-
-A modern online bookstore interface with
-authentication, book browsing and cart functionality.
-
-**Tech:**
-
-`React` `Firebase` `Tailwind CSS` `DaisyUI`
+`React` `JavaScript` `Tailwind CSS` `React Router` `REST API`
 
 ---
 
-### 🚚 Zap Shift
+## 📚 PANDU-LIPI
 
-A parcel delivery management application
-with authentication, payments and backend APIs.
+**Modern online bookstore**
 
-**Tech:**
+A React-based bookstore application featuring authentication,
+book browsing, search and cart functionality.
 
-`React` `Node.js` `Express` `MongoDB` `Firebase`
+### Tech
+
+`React` `Firebase` `Tailwind CSS` `DaisyUI` `React Router`
 
 ---
 
-### 🏥 MediCamp
+## 🚚 Zap Shift
 
-A medical camp management application
-with role-based functionality and data fetching.
+**Parcel delivery management platform**
 
-**Tech:**
+A full-stack parcel management application with authentication,
+payments and backend APIs.
+
+### Tech
+
+`React` `Node.js` `Express` `MongoDB` `Firebase` `Stripe`
+
+---
+
+## 🏥 MediCamp
+
+**Medical camp management application**
+
+A responsive application with authentication,
+role-based functionality and modern data fetching.
+
+### Tech
 
 `React` `TanStack Query` `Firebase` `MongoDB`
 
 ---
 
-# 📊 GitHub Activity
+## ⚖️ Advocate Portfolio
 
-<div align="center">
+**Premium legal portfolio website**
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=EC4899&text_color=FFFFFF" />
+A professional advocate portfolio with legal services,
+case studies, articles, testimonials and consultation features.
 
-<br/><br/>
+### Tech
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=EC4899&currStreakLabel=FFFFFF" />
-
-</div>
-
----
-
-# 📈 Most Used Languages
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF" />
-
-</div>
+`React` `Tailwind CSS` `Framer Motion` `React Router`
 
 ---
 
-# 🌱 Currently Learning
+<!-- ===================================================== -->
+<!--                 DEVELOPMENT JOURNEY                  -->
+<!-- ===================================================== -->
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=typescript,nextjs" />
-
-<br/><br/>
-
-**TypeScript • Next.js • Advanced React • Full Stack Development**
-
-</div>
-
----
-
-# 🎯 My Development Journey
+# 🧭 Development Journey
 
 ```text
-HTML / CSS
-     ↓
+HTML + CSS
+     │
+     ▼
 JavaScript
-     ↓
+     │
+     ▼
 React
-     ↓
+     │
+     ▼
 Tailwind CSS
-     ↓
+     │
+     ▼
 Firebase
-     ↓
-Node.js / Express / MongoDB
-     ↓
+     │
+     ▼
+Node.js + Express
+     │
+     ▼
+MongoDB
+     │
+     ▼
 TypeScript
-     ↓
+     │
+     ▼
 Next.js
-     ↓
+     │
+     ▼
 Full-Stack Development
